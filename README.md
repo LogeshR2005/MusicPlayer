@@ -38,7 +38,7 @@ This **Music Player** uses **JavaScript** to control the audio functionality. Th
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/music-player.git
+   git clone https://github.com/LogeshR2005/MusicPlayer.git
    ```
 2. Open the `index.html` file in your browser to start using the music player.
 
